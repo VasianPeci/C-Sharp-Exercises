@@ -1,0 +1,14 @@
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\bin\Debug\net10.0\SearchNumber.exe
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\bin\Debug\net10.0\SearchNumber.deps.json
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\bin\Debug\net10.0\SearchNumber.runtimeconfig.json
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\bin\Debug\net10.0\SearchNumber.dll
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\bin\Debug\net10.0\SearchNumber.pdb
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\SearchNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\SearchNumber.AssemblyInfoInputs.cache
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\SearchNumber.AssemblyInfo.cs
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\SearchNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\SearchNumber.dll
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\refint\SearchNumber.dll
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\SearchNumber.pdb
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\SearchNumber.genruntimeconfig.cache
+C:\Users\user\Documents\internship\c#\SearchNumber\SearchNumber\obj\Debug\net10.0\ref\SearchNumber.dll
