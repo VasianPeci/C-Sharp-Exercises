@@ -1,0 +1,14 @@
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\bin\Debug\net10.0\BankAccounts.exe
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\bin\Debug\net10.0\BankAccounts.deps.json
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\bin\Debug\net10.0\BankAccounts.runtimeconfig.json
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\bin\Debug\net10.0\BankAccounts.dll
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\bin\Debug\net10.0\BankAccounts.pdb
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\BankAccounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\BankAccounts.AssemblyInfoInputs.cache
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\BankAccounts.AssemblyInfo.cs
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\BankAccounts.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\BankAccounts.dll
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\refint\BankAccounts.dll
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\BankAccounts.pdb
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\BankAccounts.genruntimeconfig.cache
+C:\Users\user\Documents\internship\c#\BankAccounts\BankAccounts\obj\Debug\net10.0\ref\BankAccounts.dll
