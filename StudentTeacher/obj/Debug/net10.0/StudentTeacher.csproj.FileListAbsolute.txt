@@ -1,0 +1,14 @@
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\bin\Debug\net10.0\StudentTeacher.exe
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\bin\Debug\net10.0\StudentTeacher.deps.json
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\bin\Debug\net10.0\StudentTeacher.runtimeconfig.json
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\bin\Debug\net10.0\StudentTeacher.dll
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\bin\Debug\net10.0\StudentTeacher.pdb
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\StudentTeacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\StudentTeacher.AssemblyInfoInputs.cache
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\StudentTeacher.AssemblyInfo.cs
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\StudentTeacher.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\StudentTeacher.dll
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\refint\StudentTeacher.dll
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\StudentTeacher.pdb
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\StudentTeacher.genruntimeconfig.cache
+C:\Users\user\Documents\internship\c#\StudentTeacher\StudentTeacher\obj\Debug\net10.0\ref\StudentTeacher.dll
